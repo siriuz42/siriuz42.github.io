@@ -1,0 +1,104 @@
+body{
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+	color: #F7F7F7;
+}
+
+.curtain{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 10%;
+	background-color: black;
+}
+
+.sidebar{
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 16px;
+	width: 256px;
+	background-color: #29526D;
+}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 24px;
+	width: 100%;
+	background-color: #07314C;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 8pt;
+	z-index: -1;
+}
+
+.navigator{
+	position: fixed;
+	left: 256px;
+	right: 0;
+	top: 0;
+	height: 2em;
+	background-color: #5C7A8E;
+}
+
+.contentContainer{
+	position: fixed;
+	left: 256px;
+	right: 0;
+	top: 2em;
+	bottom: 16px;
+	background-color: #A9B1B7;
+}
+
+.portrait{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%; 
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	
+	top: 20%;
+	left: 28px;
+	bottom: 50%;
+	background-color: yellow;
+}
+
+.nametag{
+	position: absolute;
+	text-align: right;
+	width: 200px;
+	font-size: 14px;
+	top: calc(20% + 200px);
+	right: 32px;
+}
+
+.navBlock{
+	margin-left: 1%;
+	padding: 0;
+	border: 0;
+	display: inline-block;
+	width: 18%;
+	height: 100%;
+	background-color: #5C7A8E;
+	text-align: center;
+
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+	transition: 0.8s;
+}
+
+.navBlock:hover{
+	background-color: #AA5639;
+}
+
+.label{
+  position: relative;
+  top: -30%;
+}
+
