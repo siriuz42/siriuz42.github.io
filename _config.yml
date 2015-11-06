@@ -1,5 +1,16 @@
 # Dependencies
-markdown:         redcarpet
+gems: 
+  - jekyll-pandoc
+
+markdown:         pandoc
+
+pandoc:
+  extensions:
+    - normalize
+    - smart
+    - mathjax
+    - bibliography: bibliography/references.bib
+
 highlighter:      pygments
 
 # Permalinks
@@ -15,7 +26,6 @@ baseurl:          /
 
 author:
   name:           'Yichen Zhou'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 

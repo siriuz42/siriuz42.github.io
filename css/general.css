@@ -3,6 +3,33 @@ body{
 	color: #F7F7F7;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #F7F7F7;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.omni{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	min-width: 800px;
+	min-height: 600px;
+}
+
 .curtain{
 	position: fixed;
 	top: 0;
@@ -13,7 +40,7 @@ body{
 }
 
 .sidebar{
-	position: fixed;
+	position: absolute;
 	left: 0;
 	top: 0;
 	bottom: 16px;
@@ -22,7 +49,7 @@ body{
 }
 
 .footer{
-	position: fixed;
+	position: absolute;
 	left: 0;
 	bottom: 0;
 	height: 24px;
@@ -37,7 +64,7 @@ body{
 }
 
 .navigator{
-	position: fixed;
+	position: absolute;
 	left: 256px;
 	right: 0;
 	top: 0;
@@ -46,11 +73,14 @@ body{
 }
 
 .contentContainer{
-	position: fixed;
+	position: absolute;
 	left: 256px;
 	right: 0;
 	top: 2em;
 	bottom: 16px;
+	overflow: scroll;
+	padding-left: 1em;
+	padding-right: 1em;
 	background-color: #A9B1B7;
 }
 
@@ -89,11 +119,14 @@ body{
 
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
-	
 	transition: 0.8s;
 }
 
 .navBlock:hover{
+	background-color: #AA5639;
+}
+
+.navBlock:active{
 	background-color: #AA5639;
 }
 
