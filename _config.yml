@@ -1,15 +1,6 @@
 # Dependencies
-gems: 
-  - jekyll-pandoc
 
-markdown:         pandoc
-
-pandoc:
-  extensions:
-    - normalize
-    - smart
-    - mathjax
-    - bibliography: bibliography/references.bib
+markdown:         Kramdown
 
 highlighter:      pygments
 

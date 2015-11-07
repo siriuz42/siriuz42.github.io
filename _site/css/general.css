@@ -5,6 +5,7 @@ body{
 
 a:link {
     text-decoration: none;
+    color: #F7F7F7;
 }
 
 a:visited {
@@ -14,10 +15,12 @@ a:visited {
 
 a:hover {
     text-decoration: none;
+    color: #F7F7F7;
 }
 
 a:active {
     text-decoration: none;
+    color: #F7F7F7;
 }
 
 .omni{

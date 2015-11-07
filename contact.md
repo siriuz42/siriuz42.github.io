@@ -3,75 +3,25 @@ layout: default
 title: Contact
 ---
 
+Contact Information
+=========
 
-Is this good?
-====
+Email
+---------
+yz793 [at] cornell.edu<br>
+yichen_zhou [at] hotmail.com
 
-Emails:
+Address (Office)
+----------
+301 Malott Hall<br>
+Cornell University<br>
+Ithaca, NY 14853, US
 
-<yz793@cornell.edu> for academic purpose. <br>
-<yichen_zhou@hotmail.com> for general use.
 
-Let me span this page.
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
-let us test something super long muhaha let us test something super long muhaha let us test something super long muhaha let us test something super long muhaha let us test something super long muhaha let us test something super long muhaha let us test something super long muhaha let us test something super long muhaha
-
-blah
-
-blah
-
-blah
-
-blah
-
-blah
-
+Phone Number
+----------
+US Daytime: <br>
++1 607-379-4420  <br>
+CHN Daytime: <br>
++86 152-1058-9491
 
