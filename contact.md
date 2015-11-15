@@ -25,3 +25,48 @@ US Daytime: <br>
 CHN Daytime: <br>
 +86 152-1058-9491
 
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+Battle.net ID: 
+----------
+zycsiriuz@gmail.com (enUS)  
+zeratulaz@gmail.com (zhCN) 
+
+Steam ID:
+----------
+zeratulazasino
+
+
+
+

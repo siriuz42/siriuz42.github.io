@@ -13,7 +13,7 @@ Ph.D. Student, Department of Statistical Science, Cornell University
 Anticipated time of graduation: 06/2019
 
 09/2009 - 06/2013  
-*Bachelor of Science* in Mathematics, Department of Mathematical Science, Tsinghua University
+***Bachelor of Science*** in Mathematics, Department of Mathematical Science, Tsinghua University
   
 Visiting
 ----------
@@ -31,6 +31,20 @@ Wang, Chong, Wanqing Du, Qian Peter Su, Mingli Zhu, Peiyuan Feng, Ying Li,
 **Yichen Zhou** et al. "Dynamic tubulation of mitochondria drives mitochondrial net-
 work formation." *Cell research* (2015).  
 
+Computer Skills:
+==========
+
+Coding Languages: 
+----------
+
+Statistical analysis: R, Python  
+General: C/C++, Obj-C, Pascal, BASIC  
+Database: SQL  
+
+
+Teaching and Learning:
+=========
+
 Teaching
 ----------
 
@@ -42,3 +56,11 @@ Teaching Assistant, MATH 4710 Basic Probability, 2014 Fall
 
 ### Tsinghua University  
 Seminar Instructor, Fundamental Programming and Image Processing, 2014 Spring  
+
+Finished Coursework
+---------
+Blah
+
+
+
+
