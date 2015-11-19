@@ -4,6 +4,7 @@ body{
 }
 
 
+
 a:link {
     text-decoration: none;
     color: #F7F7F7;
@@ -91,6 +92,10 @@ a:active {
 
 .contentContainer p{
 	font-size: 16px;
+}
+
+.contentContainer h1{
+	color:black;
 }
 
 .portrait{
