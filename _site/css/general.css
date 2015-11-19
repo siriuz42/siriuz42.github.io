@@ -1,28 +1,28 @@
 body{
 	font-family: "PT Sans", Helvetica, Arial, sans-serif;
-	color: #F7F7F7;
+	color: #0A0707;
 }
 
 
 
 a:link {
     text-decoration: none;
-    color: #F7F7F7;
+    color: #0A0707;
 }
 
 a:visited {
     text-decoration: none;
-    color: #F7F7F7;
+    color: #0A0707;
 }
 
 a:hover {
     text-decoration: none;
-    color: #F7F7F7;
+    color: #0A0707;
 }
 
 a:active {
     text-decoration: none;
-    color: #F7F7F7;
+    color: #0A0707;
 }
 
 .omni{
@@ -50,7 +50,7 @@ a:active {
 	top: 0;
 	bottom: 16px;
 	width: 300px;
-	background-color: #29526D;
+	background-color: #F8F3F4;
 }
 
 .footer{
@@ -59,7 +59,7 @@ a:active {
 	bottom: 0;
 	height: 24px;
 	width: 100%;
-	background-color: #07314C;
+	background-color: #F8F3F4;
 	text-align: right;
 	margin: 0;
 	padding: 0;
@@ -74,7 +74,7 @@ a:active {
 	right: 0;
 	top: 0;
 	height: 2em;
-	background-color: #5C7A8E;
+	background-color: #F8F3F4;
 }
 
 .contentContainer{
@@ -86,16 +86,25 @@ a:active {
 	overflow: scroll;
 	padding-left: 1em;
 	padding-right: 1em;
-	background-color: #A9B1B7;
-	color: #431100;
+	background-color: #F8F3F4;	
 }
 
 .contentContainer p{
 	font-size: 16px;
+	color: #615C5D;
 }
 
 .contentContainer h1{
-	color:black;
+	color: #BF5800;
+}
+
+.contentContainer h2, h3{
+	color: #FF8C29;
+}
+
+.contentContainer a{
+    text-decoration: none;
+    color: #FF8C29;
 }
 
 .portrait{
@@ -119,6 +128,8 @@ a:active {
 	font-size: 14px;
 	top: calc(20% + 240px);
 	right: 32px;
+	color: #0A0707;
+	font-weight: bold;
 }
 
 .navBlock{
@@ -128,20 +139,20 @@ a:active {
 	display: inline-block;
 	width: 18%;
 	height: 100%;
-	background-color: #5C7A8E;
+	background-color: #C0B7B8;
 	text-align: center;
 
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
-	transition: 0.8s;
+	transition: 0.5s;
 }
 
 .navBlock:hover{
-	background-color: #AA8C39;
+	background-color: #FFAC64;
 }
 
 .navBlock:active{
-	background-color: #AA5639;
+	background-color: #C0B7B8;
 }
 
 .label{

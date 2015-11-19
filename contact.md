@@ -8,22 +8,26 @@ Contact Information
 
 Email
 ---------
-yz793 [at] cornell.edu<br>
+yz793 [at] cornell.edu  
 yichen_zhou [at] hotmail.com
 
 Address (Office)
 ----------
-301 Malott Hall<br>
-Cornell University<br>
+301 Malott Hall  
+Cornell University  
 Ithaca, NY 14853, US
 
 
 Phone Number
 ----------
-US Daytime: <br>
-+1 607-379-4420  <br>
-CHN Daytime: <br>
+US Daytime:   
++1 607-379-4420    
+CHN Daytime:   
 +86 152-1058-9491
+
+
+Social Media
+----------
 
 
 
