@@ -48,7 +48,7 @@ a:active {
 	position: absolute;
 	left: 0;
 	top: 0;
-	bottom: 16px;
+	bottom: 1em;
 	width: 300px;
 	background-color: #F8F3F4;
 }
@@ -57,14 +57,14 @@ a:active {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	height: 24px;
+	height: 2em;
 	width: 100%;
 	background-color: #F8F3F4;
 	text-align: right;
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 8pt;
+	font-size: 0.5em;
 	z-index: -1;
 }
 
@@ -82,7 +82,7 @@ a:active {
 	left: 300px;
 	right: 0;
 	top: 2em;
-	bottom: 16px;
+	bottom: 1em;
 	overflow: scroll;
 	padding-left: 1em;
 	padding-right: 1em;
@@ -90,7 +90,7 @@ a:active {
 }
 
 .contentContainer p{
-	font-size: 16px;
+	font-size: 1em;
 	color: #615C5D;
 }
 
@@ -125,7 +125,7 @@ a:active {
 	position: absolute;
 	text-align: right;
 	width: 200px;
-	font-size: 14px;
+	font-size: 0.8em;
 	top: calc(20% + 240px);
 	right: 32px;
 	color: #0A0707;
