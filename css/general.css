@@ -4,7 +4,6 @@ body{
 }
 
 
-
 a:link {
     text-decoration: none;
     color: #0A0707;
@@ -141,7 +140,7 @@ a:active {
 	height: 100%;
 	background-color: #C0B7B8;
 	text-align: center;
-
+	font-size: 1em;
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
 	transition: 0.5s;
