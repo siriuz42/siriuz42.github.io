@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Background
+title: Summary
 ---
 
 Academics
@@ -57,9 +57,29 @@ Teaching Assistant, MATH 4710 Basic Probability, 2014 Fall
 ### Tsinghua University  
 Seminar Instructor, Fundamental Programming and Image Processing, 2014 Spring  
 
-Finished Coursework
+Statistics Related Coursework
 ---------
-Blah
+
+### Graduate
+
+Mathematical Statistics I & II, Advanced Machine Learning, Statistical Consulting I & II, Statistical Computing, Functional Data Analysis.
+
+### Undergraduate
+
+Mathematical Analysis, Linear Algebra, Probability, Statistical Inference, Game Theory, Database Management, Fundamental Programming, Object Oriented Programming.
+
+Miscellaneous
+=========
+
+Languages
+---------
+
+Madarine Chinese: native speaker  
+English: proficient  
+French: reading math  
+
+
+
 
 
 

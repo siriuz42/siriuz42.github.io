@@ -25,9 +25,12 @@ US Daytime:
 CHN Daytime:   
 +86 152-1058-9491
 
-
-Social Media
+Find Me
 ----------
+LinkedIn: <a href="https://www.linkedin.com/in/yichen-ethan-zhou-9424554a">Yichen Zhou</a>    
+Facebook: <a href="https://www.facebook.com/zeratulaz">Yichen Zhou</a>  
+Skype: yzhou793  
+WeChat: zeratulaz  
 
 
 
