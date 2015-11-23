@@ -2,8 +2,9 @@ body{
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
 	color: #0A0707;
 	background-color: #F8F3F4;
-	min-width: 800px;
+	overflow: scroll;
 	min-height: 600px;
+	min-width: 800px;
 }
 
 
@@ -28,7 +29,7 @@ a:active {
 }
 
 .curtain{
-	position: fixed;
+	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -44,6 +45,7 @@ a:active {
 	width: 300px;
 	background-color: #F8F3F4;
 	z-index: 1;
+	min-height: 600px;
 }
 
 .footer{
@@ -61,6 +63,7 @@ a:active {
 
 .navigator{
 	position: fixed;
+	min-width: 500px;
 	z-index: 1;
 	left: 300px;
 	right: 0;
@@ -71,10 +74,10 @@ a:active {
 
 .contentContainer{
 	position: absolute;
+	min-width: 500px;
 	left: 300px;
 	right: 0;
 	top: 2em;
-	overflow: scroll;
 	padding-left: 1em;
 	padding-right: 1em;
 	background-color: #F8F3F4;	
