@@ -29,6 +29,7 @@ Find Me
 ----------
 LinkedIn: <a href="https://www.linkedin.com/in/yichen-ethan-zhou-9424554a">Yichen Zhou</a>    
 Facebook: <a href="https://www.facebook.com/zeratulaz">Yichen Zhou</a>  
+GitHub: <a href="https://github.com/siriuz42">siriuz42</a>  
 Skype: yzhou793  
 WeChat: zeratulaz  
 

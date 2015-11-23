@@ -22,10 +22,16 @@ The essential question lying behind is to properly classify time series readings
 
 We intended to try this algorithm, time series warping, on this question due to its ability to directly adjust and compare time series. It is theoretically fast, and easier to interpret. 
 
+Relevant code can be found <a href="https://github.com/skyler120/TSClass">here</a> on GitHub.
+
 Bayesian 3D Reconstruction
 ----------
 
-This project was advised by Dr. Ke Deng during my visit at Yau Mathematics Science Center. 
+This project was a joint work with <a href="https://www.linkedin.com/in/chenchengcai">Chencheng Cai</a> advised by Dr. Ke Deng during my visit at Yau Mathematics Science Center. It attempted to fulfill large scale crowd monitoring through a novel Bayesian approach. Previous reseaches had been done on the video from a single surveillance camera. After feature extraction and regression they would give a vaguely estimate of the size of the crowd in the scene. We tried to adapt the setting to be multi-camera and use the images from various aspects to get a more accurate counting method. The key idea was to first segment the scene as a 2D grid on the level ground, then utilize Markov Chain Monte Carlo to sample the height distribution with the videos of those multiple cameras. 
+
+The work was temporarily suspended after our visit ended.
+
+
 
 
 

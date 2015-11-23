@@ -34,13 +34,20 @@ work formation." *Cell research* (2015).
 Computer Skills:
 ==========
 
-Coding Languages: 
+Proficient Languages: 
 ----------
 
 Statistical analysis: R, Python  
-General: C/C++, Obj-C, Pascal, BASIC  
-Database: SQL  
+Advanced: C/C++, Obj-C, Pascal, BASIC   
+Writing: LaTeX    
 
+Competent Languages: 
+----------
+
+Database: SQL   
+Advanced: Java  
+Web: JavaScript, HTML, CSS   
+Writing: Markdown  
 
 Teaching and Learning:
 =========
@@ -57,12 +64,12 @@ Teaching Assistant, MATH 4710 Basic Probability, 2014 Fall
 ### Tsinghua University  
 Seminar Instructor, Fundamental Programming and Image Processing, 2014 Spring  
 
-Statistics Related Coursework
+Finished Statistics Related Coursework
 ---------
 
 ### Graduate
 
-Mathematical Statistics I & II, Advanced Machine Learning, Statistical Consulting I & II, Statistical Computing, Functional Data Analysis.
+Mathematical Statistics I & II, Advanced Machine Learning, Statistical Consulting I & II, Statistical Computing, Functional Data Analysis, Mathematical Programming.
 
 ### Undergraduate
 

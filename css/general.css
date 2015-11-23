@@ -1,6 +1,9 @@
 body{
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
 	color: #0A0707;
+	background-color: #F8F3F4;
+	min-width: 800px;
+	min-height: 600px;
 }
 
 
@@ -24,16 +27,6 @@ a:active {
     color: #0A0707;
 }
 
-.omni{
-	position: absolute;
-	left: 0;
-	right: 0;
-	top: 0;
-	bottom: 0;
-	min-width: 800px;
-	min-height: 600px;
-}
-
 .curtain{
 	position: fixed;
 	top: 0;
@@ -44,31 +37,31 @@ a:active {
 }
 
 .sidebar{
-	position: absolute;
+	position: fixed;
 	left: 0;
 	top: 0;
-	bottom: 1em;
+	bottom: 0;
 	width: 300px;
 	background-color: #F8F3F4;
+	z-index: 1;
 }
 
 .footer{
 	position: absolute;
-	left: 0;
-	bottom: 0;
+
 	height: 2em;
-	width: 100%;
 	background-color: #F8F3F4;
 	text-align: right;
-	margin: 0;
-	padding: 0;
-	border: 0;
 	font-size: 0.5em;
-	z-index: -1;
+	width: 200px;
+	right: 32px;
+	bottom: 2em;
+	color: #0A0707;
 }
 
 .navigator{
-	position: absolute;
+	position: fixed;
+	z-index: 1;
 	left: 300px;
 	right: 0;
 	top: 0;
@@ -81,7 +74,6 @@ a:active {
 	left: 300px;
 	right: 0;
 	top: 2em;
-	bottom: 1em;
 	overflow: scroll;
 	padding-left: 1em;
 	padding-right: 1em;
