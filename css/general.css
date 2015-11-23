@@ -3,7 +3,7 @@ body{
 	color: #0A0707;
 	background-color: #F8F3F4;
 	overflow: scroll;
-	min-height: 600px;
+	min-height: 500px;
 	min-width: 800px;
 }
 
@@ -45,7 +45,7 @@ a:active {
 	width: 300px;
 	background-color: #F8F3F4;
 	z-index: 1;
-	min-height: 600px;
+	min-height: 500px;
 }
 
 .footer{
@@ -109,7 +109,7 @@ a:active {
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	
-	top: 20%;
+	top: 15%;
 	right: 28px;
 	bottom: 50%;
 	background-color: yellow;
@@ -120,7 +120,7 @@ a:active {
 	text-align: right;
 	width: 200px;
 	font-size: 0.8em;
-	top: calc(20% + 240px);
+	top: calc(15% + 240px);
 	right: 32px;
 	color: #0A0707;
 	font-weight: bold;
