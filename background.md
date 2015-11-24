@@ -31,17 +31,17 @@ Wang, Chong, Wanqing Du, Qian Peter Su, Mingli Zhu, Peiyuan Feng, Ying Li,
 **Yichen Zhou** et al. "Dynamic tubulation of mitochondria drives mitochondrial net-
 work formation." *Cell research* (2015).  
 
-Computer Skills:
+Computer Skills
 ==========
 
-Proficient Languages: 
+Proficient Languages
 ----------
 
 **Statistical**: R, Python  
 **Advanced**: C/C++, Obj-C, Pascal, BASIC   
 **Writing**: LaTeX    
 
-Competent Languages: 
+Competent Languages
 ----------
 
 **Database**: SQL   
@@ -67,11 +67,11 @@ Seminar Instructor, Fundamental Programming and Image Processing, 2014 Spring
 Finished Statistics Related Coursework
 ---------
 
-### Graduate
+### Graduate  
 
 Mathematical Statistics I & II, Advanced Machine Learning, Statistical Consulting I & II, Statistical Computing, Functional Data Analysis, Mathematical Programming.
 
-### Undergraduate
+### Undergraduate 
 
 Mathematical Analysis, Linear Algebra, Probability, Statistical Inference, Game Theory, Database Management, Fundamental Programming, Object Oriented Programming.
 
