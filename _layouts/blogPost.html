@@ -1,10 +1,12 @@
----
-layout: default
-title: Drop Me a Line
----
-
-Drop Me a Line 
-==========
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	
+	<body>
+		{% include frame.html %}
+		<div class="contentContainer">
+				<h1> {{ page.title }} </h1>
+				{{ content }}
 
 <div id="disqus_thread"></div>
 <script>
@@ -29,4 +31,8 @@ Drop Me a Line
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
+		</div>
+	</body>
+
+</html>
 

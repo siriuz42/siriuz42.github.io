@@ -13,7 +13,7 @@ Ph.D. Student, Department of Statistical Science, Cornell University
 Anticipated time of graduation: 06/2019
 
 09/2009 - 06/2013  
-***Bachelor of Science*** in Mathematics, Department of Mathematical Science, Tsinghua University
+**Bachelor of Science** in Mathematics, Department of Mathematical Science, Tsinghua University
   
 Visiting
 ----------
@@ -37,17 +37,17 @@ Computer Skills:
 Proficient Languages: 
 ----------
 
-Statistical analysis: R, Python  
-Advanced: C/C++, Obj-C, Pascal, BASIC   
-Writing: LaTeX    
+**Statistical**: R, Python  
+**Advanced**: C/C++, Obj-C, Pascal, BASIC   
+**Writing**: LaTeX    
 
 Competent Languages: 
 ----------
 
-Database: SQL   
-Advanced: Java  
-Web: JavaScript, HTML, CSS   
-Writing: Markdown  
+**Database**: SQL   
+**Advanced**: Java  
+**Web**: JavaScript, HTML, CSS   
+**Writing**: Markdown  
 
 Teaching and Learning:
 =========
@@ -78,6 +78,13 @@ Mathematical Analysis, Linear Algebra, Probability, Statistical Inference, Game 
 Miscellaneous
 =========
 
+Selective Honors
+---------
+
+Excellent Graduate (Top 10%), Tsinghua University, 2013  
+National Scholarship for Ambitions, P. R. China, 2011
+
+
 Languages
 ---------
 
@@ -86,8 +93,7 @@ English: proficient
 French: reading math  
 
 
-
-
-
-
-
+Social Service
+---------
+Vice President, Student Union of Department of Mathematical Sciences, Tsinghua University, 2011-2012  
+Volunteer, International Congress of Chinese Mathematicians, Beijing, 2010
