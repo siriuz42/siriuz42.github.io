@@ -69,7 +69,7 @@ Finished Statistics Related Coursework
 
 ### Graduate  
 
-Mathematical Statistics I & II, Advanced Machine Learning, Statistical Consulting I & II, Statistical Computing, Functional Data Analysis, Mathematical Programming.
+Mathematical Statistics I & II, Advanced Machine Learning, Statistical Consulting I & II, Statistical Computing, Functional Data Analysis, Linear Model, Mathematical Programming.
 
 ### Undergraduate 
 
@@ -78,7 +78,7 @@ Mathematical Analysis, Linear Algebra, Probability, Statistical Inference, Game 
 Miscellaneous
 =========
 
-Selective Honors
+Selected Honors
 ---------
 
 Excellent Graduate (Top 10%), Tsinghua University, 2013  
