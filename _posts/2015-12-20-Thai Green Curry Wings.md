@@ -6,7 +6,7 @@ Category: recipe
 
 Thanks to Ben Athiwaratkun for the recipe. 
 
-Last weekend we have had our very inspiring end-of-semester party at Ben's apartment. He cooked this Thai flavored chicken wings which were definitely an explosion on our tongues. Here is the recipe that I have stolen from his omniscient cookbook. 
+Last weekend we have had our very inspiring end-of-semester party at Ben's apartment. He prepared some Thai flavored chicken wings which were definitely an explosion on our tongues. Here is the recipe that I have stolen from his omniscient cookbook. 
 
 - 2 tablespoons all-purpose flour  
 - 1 teaspoon salt  
