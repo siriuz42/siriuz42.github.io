@@ -16,7 +16,7 @@ Last weekend we have had our very inspiring end-of-semester party at Ben's apart
 
 Here is the recipe.
 
-1. Preheat the oven to 500&deg. Line a large baking sheet with foil and spray with vegetable oil in a large bowl, mix the flour with the salt. Add the wings and toss to coat. Spead the wings o nthe prepared baking sheet in single layer and spray with vegetable oil. Roast the wings for about 45 minutes. Turning once or twice until browned and crispy.  
+1. Preheat the oven to 500&deg;F(260&deg;C). Line a large baking sheet with foil and spray with vegetable oil in a large bowl, mix the flour with the salt. Add the wings and toss to coat. Spead the wings on the prepared baking sheet in single layer and spray with vegetable oil. Roast the wings for about 45 minutes. Turning once or twice until browned and crispy.  
 2. In a bowl, toss the wings with the sauce and butter.
 
 For that exotic Thai flavor, 
