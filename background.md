@@ -13,7 +13,8 @@ Ph.D. Student, Department of Statistical Science, Cornell University
 Anticipated time of graduation: 06/2019
 
 09/2009 - 06/2013  
-**Bachelor of Science** in Mathematics, Department of Mathematical Science, Tsinghua University
+**Bachelor of Science** in Mathematics, Department of Mathematical Science, Tsinghua University   
+Experimental class of fundamental mathematics and physics, School of Science
   
 Visiting
 ----------
@@ -23,13 +24,12 @@ Junior Visitor, Yau Mathematics Science Center, Tsinghua University
 Publications
 ----------
 
-Wenyu Zhang, Skyler Seto and **Yichen Zhou**, "Multivariate Time Series Classication
+Wenyu Zhang, Skyler Seto and **Yichen Zhou**, "Multivariate Time Series Classification
 Using Dynamic Time Warping Template Selection for Human Activity Recognition.",
 *2015 IEEE CIDM*, in press.  
 
 Wang, Chong, Wanqing Du, Qian Peter Su, Mingli Zhu, Peiyuan Feng, Ying Li,
-**Yichen Zhou** et al. "Dynamic tubulation of mitochondria drives mitochondrial net-
-work formation." *Cell research* (2015).  
+**Yichen Zhou** et al. "Dynamic tubulation of mitochondria drives mitochondrial network formation." *Cell research* (2015).  
 
 Computer Skills
 ==========
