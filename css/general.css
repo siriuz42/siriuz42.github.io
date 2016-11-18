@@ -39,7 +39,7 @@ a:active {
 
 .sidebar{
 	position: fixed;
-	left: 0;
+	left: max(0, 50%-300px);
 	top: 0;
 	bottom: 0;
 	width: 300px;
@@ -50,7 +50,6 @@ a:active {
 
 .footer{
 	position: absolute;
-
 	height: 2em;
 	background-color: #F8F3F4;
 	text-align: right;
