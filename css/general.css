@@ -39,7 +39,7 @@ a:active {
 
 .sidebar{
 	position: fixed;
-	left: max(0, 50%-300px);
+	left: 0;
 	top: 0;
 	bottom: 0;
 	width: 300px;
