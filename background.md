@@ -27,7 +27,7 @@ Junior Visitor, Yau Mathematics Science Center, Tsinghua University
 Publications
 =========
 
-**Yichen Zhou** and Giles Hooker, 2016, "<a href="http://arxiv.org/abs/1610.09036"/>Interpreting Models via Single Tree Approximation</a>", under review.
+**Yichen Zhou** and Giles Hooker, 2016, "<a href="http://arxiv.org/abs/1610.09036">Interpreting Models via Single Tree Approximation</a>", under review.  
 
 Wenyu Zhang, Skyler Seto and **Yichen Zhou**, "Multivariate Time Series Classification
 Using Dynamic Time Warping Template Selection for Human Activity Recognition.",
@@ -41,7 +41,7 @@ Teaching
 =========
 
 ### Cornell University
-Teaching Assistant, STSCI 3080 Probability Models and Inference, 2016 Fall, 2016 Spring, 2015 Fall 
+Teaching Assistant, STSCI 3080 Probability Models and Inference, 2016 Fall, 2016 Spring, 2015 Fall  
 Teaching Assistant, ILRST 2100 Introductory Statistics, 2015 Summer  
 Teaching Assistant, MATH 2930 Linear Algebra for Engineers, 2015 Spring  
 Teaching Assistant, MATH 4710 Basic Probability, 2014 Fall  
