@@ -10,9 +10,3 @@ A nice hiking trip into the mountains. First day's hiking into Mt. Marcy was too
 <img src="http://www.siriuzplay.com/img/posts/161118/2.JPG" width="400" />
 <img src="http://www.siriuzplay.com/img/posts/161118/3.JPG" width="400" />
 <img src="http://www.siriuzplay.com/img/posts/161118/4.JPG" width="400" />
-
-
-
-
-
-
