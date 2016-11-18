@@ -31,15 +31,15 @@ a:active {
 .curtain{
 	position: absolute;
 	top: 0;
-	left: 0;
-	width: 100%;
+	left: calc(50%-400px);
+	width: 500px;
 	height: 10%;
 	background-color: black;
 }
 
 .sidebar{
 	position: fixed;
-	left: 0;
+	left: calc(50%-400px);
 	top: 0;
 	bottom: 0;
 	width: 300px;
@@ -62,9 +62,9 @@ a:active {
 
 .navigator{
 	position: fixed;
-	min-width: 500px;
+	width: 500px;
 	z-index: 1;
-	left: 300px;
+	left: calc(50%-100px);
 	right: 0;
 	top: 0;
 	height: 2.2em;
@@ -73,8 +73,8 @@ a:active {
 
 .contentContainer{
 	position: absolute;
-	min-width: 500px;
-	left: 300px;
+	width: 500px;
+	left: calc(50%-100px);
 	right: 0;
 	top: 2em;
 	padding-left: 1em;
