@@ -16,9 +16,9 @@ Experimental class of fundamental mathematics and physics, School of Science
   
 Visiting and Internships
 =========
-05/2016 - 08/2016
-Software Developer Intern at A9.com, Palo Alto, CA.
-Relevance feature team under Product Search.
+05/2016 - 08/2016  
+Software Developer Intern at A9.com, Palo Alto, CA  
+Worked in Relevance Feature team under Product Search
 
 
 08/2013 - 06/2014  
