@@ -29,8 +29,8 @@ Publications
 
 **Yichen Zhou** and Giles Hooker, 2016, "<a href="http://arxiv.org/abs/1610.09036">Interpreting Models via Single Tree Approximation</a>", under review.  
 
-Wenyu Zhang, Skyler Seto and **Yichen Zhou**, "Multivariate Time Series Classification
-Using Dynamic Time Warping Template Selection for Human Activity Recognition.",
+Wenyu Zhang, Skyler Seto and **Yichen Zhou**, "<a href="https://arxiv.org/abs/1512.06747">Multivariate Time Series Classification
+Using Dynamic Time Warping Template Selection for Human Activity Recognition</a>",
 *2015 IEEE CIDM*, in press.  
 
 Wang, Chong, Wanqing Du, Qian Peter Su, Mingli Zhu, Peiyuan Feng, Ying Li,
